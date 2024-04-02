@@ -1,36 +1,11 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Snapshots
 
-## Getting Started
+<img width="942" alt="image" src="https://github.com/anujsingh4545/Prompt-AI/assets/76861751/e19c0fd1-19c6-4bbf-ac63-cb92e088d14c">
+<img width="947" alt="image" src="https://github.com/anujsingh4545/Prompt-AI/assets/76861751/3c905704-e87d-4c9c-826d-61b44d3d2147">
+<img width="947" alt="image" src="https://github.com/anujsingh4545/Prompt-AI/assets/76861751/fa21b7c2-0633-457e-bf22-69c797be032c">
+<img width="947" alt="image" src="https://github.com/anujsingh4545/Prompt-AI/assets/76861751/ddaf124b-5f8f-42f0-9ddc-5838fc46f61e">
+<img width="947" alt="image" src="https://github.com/anujsingh4545/Prompt-AI/assets/76861751/08233f17-dbd7-46c0-9eb8-65f190a411ce">
+<img width="947" alt="image" src="https://github.com/anujsingh4545/Prompt-AI/assets/76861751/865ba22d-b6aa-4f4a-ad2b-024d4b66023e">
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
